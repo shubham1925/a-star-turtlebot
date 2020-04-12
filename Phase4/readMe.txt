@@ -40,6 +40,4 @@ Open a new Terminal
 Open a new Terminal
 	source devel/setup.bash
 	rosrun pathtracer tracer
-
-## Bugs
-ecobot sometimes take more time to collect/delete garbage even after reaching near, because A* path planner takes more time to achieve exact target location.
+	
